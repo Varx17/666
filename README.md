@@ -1,3 +1,3 @@
 # 666
 
-https://github.com/Varx17/666
+https://varx17.github.io/666/
